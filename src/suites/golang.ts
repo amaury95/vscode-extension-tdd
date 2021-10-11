@@ -22,7 +22,7 @@ export default class Golang extends Jest {
   /**
    * @protected Folders that contains either test files or non testeable files.
    */
-  protected excludeIndicator = [];
+  protected excludeIndicator = ["mocks"];
 
   isSet(context: vscode.ExtensionContext): boolean {
     // TODO: Needs proper implementation...
