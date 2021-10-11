@@ -4,7 +4,7 @@
   "displayName": "TDD Zen",
   "description": "TDD mode where you can have both code and test code right on your screen automatically",
   "icon": "images/logo.png",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/amaury95/vscode-extension-tdd"
